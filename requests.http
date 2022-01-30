@@ -1,0 +1,25 @@
+GET http://localhost:9000/ HTTP/1.1
+
+###
+
+GET http://localhost:9000/ HTTP/1.1
+
+###
+
+POST http://localhost:9000/slackBotAPI HTTP/1.1
+content-type: application/json
+
+{
+    "challenge": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+###
+
+POST https://research-assistant-organizer.web.app/api HTTP/1.1
+content-type: application/json
+
+{
+    "challenge": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
