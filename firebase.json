@@ -12,8 +12,8 @@
         "destination": "/index.html"
       },
       {
-        "source": "/api",
-        "function": "api"
+        "source": "/slack",
+        "function": "slack"
       }
     ]
   }

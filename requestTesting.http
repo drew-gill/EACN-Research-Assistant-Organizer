@@ -16,7 +16,7 @@ content-type: application/json
 
 ###
 
-POST https://research-assistant-organizer.web.app/api HTTP/1.1
+POST https://research-assistant-organizer.web.app/api/slackbot HTTP/1.1
 content-type: application/json
 
 {
