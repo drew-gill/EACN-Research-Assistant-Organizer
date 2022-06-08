@@ -21,4 +21,4 @@ messaging platforms to ensure user engagement and dissemination of information t
 organization.
 
 ## More Info
-[View the demo here!](https://youtu.be/0Vb6Ck9ST4U)
+[View the demo here](https://youtu.be/0Vb6Ck9ST4U) or the [web app itself here!](https://research-assistant-organizer.web.app/)
